@@ -1,0 +1,147 @@
+[
+  {
+    "email": "babdelkarim@usiu.ac.ke",
+    "id": "661556",
+    "stud_name": "Abdel Karim",
+    "Password": "123",
+    "courses": {
+      "student": [
+        "APP4035",
+        "SFE4020"
+      ],
+      "lecturer": [
+        "SFE4030",
+        "APT4900"
+      ]
+    }
+  },
+  {
+    "email": "kessak@usiu.ac.ke",
+    "id": "661737",
+    "stud_name": "Khawla Essak",
+    "Password": "456",
+    "courses": {
+      "student": [
+        "APP4035",
+        "SFE4020"
+      ],
+      "lecturer": [
+        "SFE4030"
+      ]
+    }
+  },
+  {
+    "email": "mpatel@usiu.ac.ke",
+    "id": "659463",
+    "stud_name": "Manav Patel",
+    "Password": "789",
+    "courses": {
+      "student": [
+        "APT3095",
+        "SFE4020"
+      ],
+      "lecturer": [
+        "SFE4030"
+      ]
+    }
+  },
+  {
+    "email": "kkassam@usiu.ac.ke",
+    "id": "660713",
+    "stud_name": "Khudeija Kassam",
+    "Password": "159",
+    "courses": {
+      "student": [
+        "APT3010",
+        "APT3065"
+      ],
+      "lecturer": [
+        "APP4035"
+      ]
+    }
+  },
+  {
+    "email": "skagawa@usiu.ac.ke",
+    "id": "661177",
+    "stud_name": "Sean Kagawa",
+    "Password": "123",
+    "courses": {
+      "student": [
+        "APT3065",
+        "APP4035",
+        "PSY1101"
+      ],
+      "lecturer": [
+        "IST4035"
+      ]
+    }
+  },
+  {
+    "email": "kshawn@usiu.ac.ke",
+    "id": "660423",
+    "stud_name": "Shawn Kinyanjui",
+    "Password": "123",
+    "courses": {
+      "student": [
+        "APT3065",
+        "APP4035",
+        "SFE4020"
+      ],
+      "lecturer": [
+        "APT3025"
+      ]
+    }
+  },
+  {
+    "email": "dasjk@fakkdl.com",
+    "id": "661558",
+    "stud_name": "abc",
+    "Password": "admin123",
+    "courses": {
+      "student": [],
+      "lecturer": []
+    }
+  },
+  {
+    "email": "assdasd@asdjsa.com",
+    "id": "admin@gmail.com",
+    "stud_name": "adssa",
+    "Password": "admin123",
+    "courses": {
+      "student": [
+        "APT3065"
+      ],
+      "lecturer": []
+    }
+  },
+  {
+    "email": "asdas@dashjda.com",
+    "id": "admin@gmail.com",
+    "stud_name": "dasdas",
+    "Password": "admin123",
+    "courses": {
+      "student": [],
+      "lecturer": []
+    }
+  },
+  {
+    "email": "asdkasjdasfas@sahjjaca.com",
+    "id": "asfdaskjk",
+    "stud_name": "dadhjka",
+    "Password": "admin123",
+    "courses": {
+      "student": [],
+      "lecturer": []
+    }
+  },
+  {
+    "email": "asdasdl@asdas.com",
+    "id": "661224",
+    "stud_name": "asdhjaskd",
+    "Password": "admin123",
+    "courses": {
+      "student": [],
+      "lecturer": []
+    }
+  }
+]
